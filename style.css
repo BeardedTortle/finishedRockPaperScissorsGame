@@ -1,0 +1,33 @@
+body {
+    background-image: url('media/bg.jpg');
+    font-size: 10px;
+
+}
+#container {
+    background-color: #eee;
+    padding: 1em;
+    margin: 5em;
+    text-align: center;
+}
+.resultBox {
+    border-style: solid;
+    margin: 1em;
+    display: inline-block;
+    padding: 1em;
+}
+.resultList {
+    font-size: 2em;
+    padding: 1em 0 1em 0;
+}
+#rockImage {
+    width: 3em;
+    padding: 1em;
+}
+#paperImage {
+    width: 3em;
+    padding: 1em;
+}
+#scissorsImage {
+    width: 3em;
+    padding: 1em;
+}
